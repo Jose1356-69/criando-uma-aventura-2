@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color:white
+    font-family:font-family: "Reddit Sans Condensed", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+     margin: 0;
+}
+
+button {
+    background-color: gba(0, 255, 64, 0.42);
+    color:white
+}
+ 
